@@ -12,29 +12,29 @@ class colors:
 
 class graphics:
     class color_red:
-        pass
+        bg = ["fire","abstract"]
     class color_orange:
-        pass
+        bg = ["fire"]
     class color_yellow:
-        pass
+        bg = ["fire"]
     class color_green:
-        pass
+        bg = ["abstract"]
     class color_blue:
-        pass
+        bg = ["abstract"]
     class color_purple:
-        pass
+        g = [""]
     class color_brown:
-        pass
+        g = [""]
     class color_black:
-        pass
+        g = [""]
     class color_white:
-        pass
-
-
-
-
-app = App(title="drawing app")
-#
+        g = [""]
+    class color_teal:
+        g = ["abstract"]
+    class color_pink:
+        g = [""]
+pp = App(title="drawing app")
 ##
 #
+##
 app.display()
