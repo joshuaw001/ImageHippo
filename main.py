@@ -8,15 +8,17 @@ class colors:
         px2 = "#ffffff"
     class schemes:
         
-        red     = "#ff0000"
-        green   = "#00ff00"
-        blue    = "#0000ff"
-        yellow  = "#ffff00"
+        red     = "#FF0000"
+        green   = "#00FF00"
+        blue    = "#0000FF"
+        yellow  = "#FFFF00"
+        orange  = "#FF6600"
     class palette:
         fg = "#0000FF"
-        bg = "FFFFF00"
+        bg = "#FFFF00"
 
 app = App(title="drawing app")
+
 ##
 #
 ##
