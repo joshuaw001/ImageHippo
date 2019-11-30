@@ -1,4 +1,4 @@
-# drawing-app
+# ImageHippo
 ***
 
 It’s like photoshop, with extra features:
