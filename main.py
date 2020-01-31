@@ -24,3 +24,4 @@ app = App(title="drawing app")
 ##
 app.display()
 drawing = Drawing(app, height=300, width=300)
+app.display()
